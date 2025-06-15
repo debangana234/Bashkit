@@ -1,7 +1,7 @@
 Bioinformatics often involves working with massive sequencing datasets (e.g., FASTQ, BAM, VCF) and requires chaining together dozens of command-line tools. Knowing Bash allows us to:
 
 - Automate analysis pipelines
-- Filter, clean, and transform large datasets on the fly
+- Filter, clean, and transform large datasets
 - Manage files, permissions, and job scripts in HPC environments
 - Work smoothly on remote servers and cloud platforms via SSH
 
