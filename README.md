@@ -18,7 +18,4 @@ The tutorial1  (`tutorial1.ipynb`) covers the fundametal concepts:
 - macOS or Linux environment (or WSL on Windows)
 - Jupyter Notebook or VS Code
 
-## Coming Next
--  `awk` for data extraction from gene expression files
--  `grep`/`cut` in combination with genome annotations
--  A section on integrating Bash with bioinformatics tools (e.g., `samtools`, `fastqc`, `bedtools`)
+
