@@ -5,13 +5,16 @@ Bioinformatics often involves working with massive sequencing datasets (e.g., FA
 - Manage files, permissions, and job scripts in HPC environments
 - Work smoothly on remote servers and cloud platforms via SSH
 
-The tutorial1  (`tutorial1.ipynb`) covers the fundametal concepts:
+Tutorial1  (`tutorial1.ipynb`) covers the fundametal concepts:
 
 -  File system navigation (`cd`, `ls`, `pwd`)
 -  Permissions & ownership (`chmod`, `chown`)
 -  Script creation and execution
 -  Finding files and managing users (`find`, `id`, `dscl`)
--  Practical Bash commands relevant to bioinformatics 
+
+Tutorial2  (`tutorial2.ipynb`) discusses the `awk` tool
+
+Tutorial3  (`tutorial3.ipynb`) discusses the `grep` tool
 
 ## Requirements
 
